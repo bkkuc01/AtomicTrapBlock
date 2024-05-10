@@ -1,0 +1,7 @@
+name: AtomicTrapBlock
+version: '1.0'
+main: pl.bkkuc.atomictrapblock.Plugin
+api-version: '1.16'
+
+commands:
+  trapblock:
